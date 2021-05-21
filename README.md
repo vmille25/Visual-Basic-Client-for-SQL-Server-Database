@@ -4,7 +4,7 @@
 2. Add a new class to the project called Pet.vb
 
 The following code should be added to the Pet class
-```visual basic
+```vb
 Public Class Pet
     Public Property ID As Integer
     Public Property Name As String
