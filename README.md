@@ -16,7 +16,7 @@ End Class
 3. Add the following namespaces to the WebForm1.aspx.vb file (Don't forget, this file may not appear in your solution explorer, if it is not in your solution explorer then look in your File Explorer in the project's working directory for this file): System.Data.SqlClient
 4. Create and add the code for the GetPetById method in the WebForm1 class
 The WebForm1 class should look as follows:
-```visualbasic
+```vb
 Public Class WebForm1
     Inherits System.Web.UI.Page
 
